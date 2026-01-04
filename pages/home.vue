@@ -21,8 +21,11 @@ const panelOpen = ref(false)
              text-white px-3 py-4 rounded-l-xl
              backdrop-blur-md transition z-40"
     >
-      <span class="rotate-90 block tracking-widest font-semibold">
-        HOME
+      <span class="tracking-widest font-semibold">
+       <span class="block">H</span>
+       <span class="block">O</span>
+       <span class="block">M</span>
+       <span class="block">E</span>
       </span>
     </button>
 
